@@ -1,0 +1,3 @@
+rootProject.name = 'cdl_project'
+
+include ':app'

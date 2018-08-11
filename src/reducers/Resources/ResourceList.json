@@ -1,0 +1,28 @@
+[
+
+  {"id": 0,
+  "title": "Alternate Measures",
+  "image": "https://studybuddhism.com/media/W1siZiIsIjIwMTYvMDgvMTYvMTIvNTgvMTkvMTg4L3N0dWR5X2J1ZGRoaXNtX3doYXRfaXNfbWVkaXRhdGlvbi5qcGciXSxbInAiLCJ0aHVtYiIsIjcwMHhcdTAwM2UiXV0/study-buddhism-what-is-meditation.jpg?sha=3475d82e0266566b",
+  "author": "J. Smith",
+  "description": "Go for a walk \nReconnect with  an old friend \nPaint or draw \nGo to the park \nPlay some sports \nMeditate \nGo watch a movie \nLearn to play an instrument\nGo to the gym \nRead a book \nLearn a new language \n"
+  },
+  {"id": 1,
+  "title": "Acceptance",
+  "image": "https://www.joshuanhook.com/wp-content/uploads/2018/06/acceptancetoself.jpg",
+  "author": "R. Sanchez",
+  "description": "Aenean felis nunc, vulputate eu lectus gravida, aliquet tincidunt justo. Curabitur fringilla volutpat ante, bibendum bibendum tortor aliquam id. Nullam in arcu odio. Nam porta ut lacus nec sollicitudin. Phasellus lacinia molestie posuere. Proin fermentum purus justo, id mollis sapien faucibus ut. Proin non odio ac felis vestibulum porta. Suspendisse velit massa, iaculis gravida lobortis vitae, mollis a arcu."
+  },
+  {"id": 2,
+  "title": "Reflection",
+  "image": "https://arthurholtlibrary.files.wordpress.com/2018/05/reflection.jpeg?w=692&h=455",
+  "author": "M. Smith",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tempus lectus ac turpis malesuada sagittis. Fusce at vulputate leo. Cras a magna vitae lorem accumsan volutpat. Vestibulum vitae lectus velit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque libero nisi, ornare ac iaculis in, consequat a mauris. Sed in aliquet nisi, eu convallis felis. Vivamus tempus malesuada erat et varius. Morbi sed posuere lectus. Integer dictum eros ut tincidunt blandit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam at odio non mauris rutrum lobortis in id urna. Sed et risus ut metus commodo convallis non eu urna. Aliquam sit amet erat eu elit commodo dictum ut a justo. Curabitur convallis odio aliquam nibh faucibus ultrices."
+  },
+  {"id": 3,
+  "title": "Distraction",
+  "image": "https://www.verywellmind.com/thmb/yQ4uK--OiXPy6I3kKakG8FqnvwQ=/735x0/crossword-5a659d30beba33003665280b.jpg",
+  "author": "C. Salem",
+  "description": "Nullam iaculis, nunc sed viverra molestie, quam ipsum lobortis nibh, nec luctus turpis dui nec lacus. Donec in ex lectus. Quisque eros leo, pellentesque non aliquam eu, pulvinar et ante. Interdum et malesuada fames ac ante ipsum primis in faucibus. Proin eu dui dictum ipsum rutrum elementum ut ut eros. Nunc mattis ligula nisl, quis posuere nisl imperdiet ac. Praesent ac tincidunt ipsum. Sed pretium, nunc ac rhoncus feugiat, ante dui congue massa, in finibus mauris enim in nunc."
+  }
+
+]
